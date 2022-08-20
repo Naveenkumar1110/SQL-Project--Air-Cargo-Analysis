@@ -1,4 +1,4 @@
-route_id,flight_num,origin_airport,destination_airport,aircraft_id,distance_miles
+route_id,flight_num,origin_airport,destination_airport,aircraft_id,distance_miles 
 1,1111,EWR,HNL,767-301ER,4962
 2,1112,HNL,EWR,767-301ER,4962
 3,1113,EWR,LHR,A321,3466
