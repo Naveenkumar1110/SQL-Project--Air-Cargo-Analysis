@@ -1,4 +1,4 @@
-customer_id,aircraft_id,route_id,depart,arrival,seat_num,class_id,travel_date,flight_num
+customer_id,aircraft_id,route_id,depart,arrival,seat_num,class_id,travel_date,flight_num 
 2,A321,34,CRW,COD,01B,Bussiness,26-01-2019,1117
 2,767-301ER,4,JFK,LAX,01E,Economy,02-09-2018,1114
 1,ERJ142,9,DEN,LAX,01EP,Economy Plus,26-12-2019,1119
