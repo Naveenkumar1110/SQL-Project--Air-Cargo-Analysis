@@ -1,4 +1,4 @@
-p_date,customer_id,aircraft_id,class_id,no_of_tickets,a_code,Price_per_ticket,brand
+p_date,customer_id,aircraft_id,class_id,no_of_tickets,a_code,Price_per_ticket,brand 
 26-12-2018,27,767-301ER,Economy,1,DAL,130,Emirates
 02-02-2020,22,ERJ142,Economy Plus,1,AGB,220,Jet Airways
 03-03-2020,21,CRJ900,Bussiness,1,BOH,490,Bristish Airways
