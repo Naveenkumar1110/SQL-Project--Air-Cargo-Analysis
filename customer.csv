@@ -1,4 +1,4 @@
-customer_id,first_name,last_name,date_of_birth,gender
+customer_id,first_name,last_name,date_of_birth,gender 
 1,Julie,Sam,12-01-1989,F
 2,Steve,Ryan,03-04-1983,M
 3,Morris,Lois,09-12-1993,M
