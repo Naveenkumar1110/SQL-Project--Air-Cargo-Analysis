@@ -172,7 +172,7 @@ AIR CARGO ANALYSIS
 
    select p_date, customer_id, class_id,
    CASE 
-	when class_id = 'Bussiness' or class_id = "economy plus" then 'Yes'
+	when class_id = 'Business' or class_id = "economy plus" then 'Yes'
     else 'No' 
    end as Complimentary_service   
    from ticket_details
