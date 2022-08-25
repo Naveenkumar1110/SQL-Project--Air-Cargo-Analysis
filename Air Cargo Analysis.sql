@@ -191,4 +191,4 @@ AIR CARGO ANALYSIS
    END;
    %% delimiter
    
-   note : their is no customer who's last name is "scott"
+   note : their is no customer who's last name is "scott" 
