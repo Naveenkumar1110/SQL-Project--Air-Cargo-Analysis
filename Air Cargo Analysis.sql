@@ -29,7 +29,7 @@ AIR CARGO ANALYSIS
    check(distance_miles>0)
    );
 
-
+ 
 3.Write a query to display all the passengers (customers) who have travelled in routes 01 to 25. Take data  from the passengers_on_flights table.
   
   select customer.first_name, customer.last_name, passengers_on_flights.route_id from customer  
